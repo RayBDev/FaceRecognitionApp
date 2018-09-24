@@ -5,12 +5,12 @@
   Face Recognition Brain
 </h1>
 
-The Face Recognition Brain is a single page React application that asks you to log in and enter an image URL. It will then go on to detect the face using the Clarifai API and draw a box around the face it detects. It will also keep track of the amount of faces you've detected in a backend database.
+The Face Recognition Brain is a single page React application that asks you to log in and enter an image URL. It will then go on to detect the face using the Clarifai API and draw a box around the face it detects. It will also keep track of the amount of faces you've detected in a database.
 
 You may use the following credentials if you don't want to register:
 
 ```
-Email:demo@demo.com
+Email: demo@demo.com
 Password: demo
 ```
 
@@ -30,7 +30,7 @@ Password: demo
 
 4. **Heroku**
 
-    The application is hosted on Heroku due to its backend requirements.
+    The application is hosted on Heroku due to the backend requirements.
 
 ## :computer: Getting Started
 
